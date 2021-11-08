@@ -1,3 +1,3 @@
 <html>
-  <p style="color: red; font-size: 50px;">NIGGERS</p>
+  <p>Hi :)</p>
 </html>
