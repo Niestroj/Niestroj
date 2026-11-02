@@ -1,6 +1,5 @@
 <html>
-  <h1>LET'S START A FIRE.</h1>
-  <h2>Metaphorically, ofc</h2>
+  <h1>Maximizing the human ability to create every day.</h1>
   <p>Owner of Terminal Buds.</p>
   <p>We believe a program should do ONLY what its supposed to do.</p>
   <p>Generally speaking, i'd rather get proficient in all possible programming languages
